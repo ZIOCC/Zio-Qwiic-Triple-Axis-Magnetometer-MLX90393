@@ -1,6 +1,6 @@
 # Zio Qwiic Triple Axis Magnetometer (MLX90393)
 
-![](magnetotmeter.png)
+![](magnetometer.png)
 
 > This product can be available for purchase [here](https://www.smart-prototyping.com/Zio-QwiIc-Triple-Axis-Magnetometer-MLX90393).
 
